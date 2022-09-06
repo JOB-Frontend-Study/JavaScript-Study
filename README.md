@@ -23,7 +23,7 @@
 ## :white_check_mark: 출석부
 |이름|09/06|09/13|09/20|09/27|
 |------|--|--|--|--|
-|김명준| 
-|김성한|
-|서예지|
-|한유경|
+|김명준| :white_check_mark: |
+|김성한| :white_check_mark: |
+|서예지| :white_check_mark: |
+|한유경| :white_check_mark: |
