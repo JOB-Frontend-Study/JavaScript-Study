@@ -17,13 +17,13 @@
 	13장: 스코프 ~ 15장: let, const 키워드와 블록 레벨 스코프
 
 - **2022/09/27**
-	16장: 프로퍼티 어트리뷰트 ~ 19장: 프로토타입
+	16장: 프로퍼티 어트리뷰트 ~ 18장: 함수와 일급 객체
 
 
 ## :white_check_mark: 출석부
 |이름|09/06|09/13|09/20|09/27|
 |------|--|--|--|--|
-|김명준| :white_check_mark: | :white_check_mark: |
-|김성한| :white_check_mark: | :white_check_mark: |
-|서예지| :white_check_mark: | :white_check_mark: |
-|한유경| :white_check_mark: | :white_check_mark: |
+|김명준| :white_check_mark: | :white_check_mark: | :white_check_mark: |
+|김성한| :white_check_mark: | :white_check_mark: | :white_check_mark: |
+|서예지| :white_check_mark: | :white_check_mark: | :white_check_mark: |
+|한유경| :white_check_mark: | :white_check_mark: | :white_check_mark: |
