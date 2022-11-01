@@ -37,12 +37,38 @@
 
 - **2022/10/25**
 	24장: 클로저
+	
+--------------
 
+### 11월 활동
 
+- **2022/11/08**
+	42장: 비동기 프로그래밍 ~ 44장: REST API
+
+- **2022/11/15**
+	45장: 프로미스 ~ 46장: 제너레이터와 async/await
+
+- **2022/11/22**
+	25장: 클래스
+
+- **2022/11/29**
+	26장: ES6 함수의 추가 기능, 38장: 브라우저의 렌더링 과정
+
+- **2022/12/06**
+	39장: DOM
+	
+	
 ## :white_check_mark: 출석부
 |이름|09/06|09/13|09/20|09/27|10/06|10/11|10/18|10/25|
 |------|--|--|--|--|--|--|--|--|
-|김명준| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-|김성한| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |
-|서예지| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-|한유경| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+|김명준| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+|김성한| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | | :white_check_mark: |
+|서예지| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+|한유경| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+
+|이름|11/08|11/15|11/22|11/29|12/06|
+|------|--|--|--|--|--|
+|김명준|
+|김성한|
+|서예지|
+|한유경|
