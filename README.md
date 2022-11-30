@@ -68,7 +68,7 @@
 
 |이름|11/08|11/15|11/22|11/29|12/06|
 |------|--|--|--|--|--|
-|김명준|
-|김성한|
-|서예지|
-|한유경|
+|김명준|:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |
+|김성한|:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |
+|서예지|:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |
+|한유경|:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark: |
